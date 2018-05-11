@@ -5,6 +5,7 @@ RADIUS = 3.183
 BASE_LINE = 15
 
 
+
 def compute_ticks(distance):
     """
 
